@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "fuselesstnt:fuseless_tnt"
+		}
+	],
+	"result": {
+		"item": "minecraft:tnt"
+	}
+}

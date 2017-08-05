@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fuselesstnt",
+  "name": "Fuseless TNT",
+  "description": "Adds a TNT variant that explodes instantly when activated.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Moddy10/Leo40Crafter"],
+  "credits": "Made by Moddy10/Leo40Crafter, using the Forge documentation and McJty's tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
